@@ -1,1 +1,2 @@
-# cli_for_linux
+# CLI for Linux
+My small cli application
